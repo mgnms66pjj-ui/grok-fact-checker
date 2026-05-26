@@ -149,8 +149,6 @@ if st.button("🚀 開始查證", type="primary", use_container_width=True):
 # ==================== Footer ====================
 st.divider()
 col1, col2, col3 = st.columns(3)
-with col1:
-    st.markdown("**Made with ❤️ by Grok**")
 with col2:
     st.markdown("**Powered by xAI**")
 with col3:
